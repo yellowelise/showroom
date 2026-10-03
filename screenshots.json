@@ -1,0 +1,202 @@
+[
+  {
+    "folder": "AIuta",
+    "name": "AIuta",
+    "requestedUrl": "https://aiuta.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:25.908Z",
+    "status": 200,
+    "url": "https://aiuta.pubblica.app/",
+    "title": "AIuta — Ogni idea. Il suo contesto.",
+    "image": "assets/screenshots/ai.jpg"
+  },
+  {
+    "folder": "reCoding",
+    "name": "reCoding",
+    "requestedUrl": "https://recoding.cloud/site/",
+    "capturedAt": "2026-10-03T17:32:25.889Z",
+    "status": 200,
+    "url": "https://recoding.cloud/site/",
+    "title": "reCoding — Il sistema operativo della scuola, nel browser",
+    "image": "assets/screenshots/rc.jpg"
+  },
+  {
+    "folder": "AILearn",
+    "name": "AILearn",
+    "requestedUrl": "https://ailearn.pubblica.app/",
+    "capturedAt": "2026-10-03T17:32:25.896Z",
+    "status": 200,
+    "url": "https://ailearn.pubblica.app/",
+    "title": "AILearn — Impara. Crea. Vai oltre.",
+    "image": "assets/screenshots/al.jpg"
+  },
+  {
+    "folder": "fisio",
+    "name": "Fisioterapia & movimento",
+    "requestedUrl": "https://fisioterapia.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:29.136Z",
+    "status": 200,
+    "url": "https://fisioterapia.pubblica.app/",
+    "title": "Fisioterapista a Fonte Nuova | Cristian Sarmiento",
+    "image": "assets/screenshots/fm.jpg"
+  },
+  {
+    "folder": "Dieta",
+    "name": "LINFA",
+    "requestedUrl": "https://linfa-dieta.vercel.app",
+    "capturedAt": "2026-10-03T17:32:29.132Z",
+    "status": 200,
+    "url": "https://linfa-dieta.vercel.app/",
+    "title": "LINFA — Nutrizione che si adatta",
+    "image": "assets/screenshots/li.jpg"
+  },
+  {
+    "folder": "diciotto",
+    "name": "Kindred",
+    "requestedUrl": "https://kindred.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:29.128Z",
+    "status": 200,
+    "url": "https://kindred.pubblica.app/",
+    "title": "Kindred — persone virtuali, chimica reale",
+    "image": "assets/screenshots/ki.jpg"
+  },
+  {
+    "folder": "FSL",
+    "name": "FSL4All",
+    "requestedUrl": "https://fsl.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:41.683Z",
+    "status": 200,
+    "url": "https://fsl.pubblica.app/",
+    "title": "FSL4All — Il tuo prossimo passo",
+    "image": "assets/screenshots/f4.jpg"
+  },
+  {
+    "folder": "LocAIndina",
+    "name": "LocAIndina",
+    "requestedUrl": "https://locandina.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:41.696Z",
+    "status": 200,
+    "url": "https://locandina.pubblica.app/",
+    "title": "LocAIndina — Il tuo evento, in mostra",
+    "image": "assets/screenshots/lo.jpg"
+  },
+  {
+    "folder": "HowMuch",
+    "name": "HowMuch",
+    "requestedUrl": "https://howmuch.appwrite.network",
+    "capturedAt": "2026-10-03T17:32:41.690Z",
+    "status": 200,
+    "url": "https://howmuch.pubblica.app/",
+    "title": "HowMuch — Scatta. Valuta. Vendi.",
+    "image": "assets/screenshots/hm.jpg"
+  },
+  {
+    "folder": "orientAI",
+    "name": "orientAI",
+    "requestedUrl": "https://orientai.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:46.095Z",
+    "status": 200,
+    "url": "https://orientai.pubblica.app/",
+    "title": "orientAI",
+    "image": "assets/screenshots/oa.jpg"
+  },
+  {
+    "folder": "orientai_medie",
+    "name": "orientAI Medie",
+    "requestedUrl": "https://orientai-medie.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:46.104Z",
+    "status": 200,
+    "url": "https://orientai-medie.pubblica.app/",
+    "title": "orientAI Medie",
+    "image": "assets/screenshots/om.jpg"
+  },
+  {
+    "folder": "professAI",
+    "name": "ProfessAI",
+    "requestedUrl": "https://professai.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:50.263Z",
+    "status": 200,
+    "url": "https://professai.pubblica.app/auth?mode=login",
+    "title": "Entra · ProfessAI",
+    "image": "assets/screenshots/pr.jpg"
+  },
+  {
+    "folder": "schoolify",
+    "name": "Schoolify",
+    "requestedUrl": "https://schoolify.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:50.272Z",
+    "status": 200,
+    "url": "https://schoolify.pubblica.app/",
+    "title": "Schoolify | Lo spazio dei docenti",
+    "image": "assets/screenshots/sc.jpg"
+  },
+  {
+    "folder": "palestra",
+    "name": "IRON",
+    "requestedUrl": "https://palestra-steel.vercel.app",
+    "capturedAt": "2026-10-03T17:32:50.257Z",
+    "status": 200,
+    "url": "https://palestra-steel.vercel.app/",
+    "title": "IRON — Il tuo coach di ferro",
+    "image": "assets/screenshots/ir.jpg"
+  },
+  {
+    "folder": "yalper_native",
+    "name": "Yalper Replay",
+    "requestedUrl": "https://yalper.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:56.598Z",
+    "status": 200,
+    "url": "https://yalper.pubblica.app/",
+    "title": "Il momento passa. Il replay resta. | Yalper Replay",
+    "image": "assets/screenshots/yr.jpg"
+  },
+  {
+    "folder": "StartUPatSchool",
+    "name": "StartUP@School",
+    "requestedUrl": "https://startup-school.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:56.582Z",
+    "status": 200,
+    "url": "https://startup-school.pubblica.app/",
+    "title": "StartUP@School",
+    "image": "assets/screenshots/sat.jpg"
+  },
+  {
+    "folder": "VidMeUp",
+    "name": "VidMeUp",
+    "requestedUrl": "https://vidmeup.pubblica.app",
+    "capturedAt": "2026-10-03T17:32:56.587Z",
+    "status": 200,
+    "url": "https://vidmeup.pubblica.app/",
+    "title": "VidMeUp — Tutte le tue dimensioni.",
+    "image": "assets/screenshots/vu.jpg"
+  },
+  {
+    "folder": "FILO",
+    "name": "Filo",
+    "requestedUrl": "https://filo.pubblica.app",
+    "capturedAt": "2026-10-03T17:33:33.013Z",
+    "status": 200,
+    "url": "https://filo.pubblica.app/accedi",
+    "title": "Filo",
+    "image": "assets/screenshots/fi.jpg"
+  },
+  {
+    "folder": "dIArio alimentare",
+    "name": "FooDIAry",
+    "requestedUrl": "https://foodiary.pubblica.app",
+    "capturedAt": "2026-10-03T17:33:32.995Z",
+    "status": 200,
+    "url": "https://foodiary.pubblica.app/",
+    "title": "FooDIAry — Daily Food Intelligence",
+    "image": "assets/screenshots/fd.jpg"
+  },
+  {
+    "folder": "level_doc",
+    "name": "Level DOCS",
+    "requestedUrl": "https://leveldocs.pubblica.app",
+    "capturedAt": "2026-10-03T17:34:43.768Z",
+    "status": 200,
+    "url": "https://leveldocs.pubblica.app/",
+    "title": "Level DOCS · Il tuo spazio documenti",
+    "image": "assets/screenshots/ld.jpg"
+  }
+]
