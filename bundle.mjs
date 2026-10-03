@@ -1,6 +1,10 @@
 import fs from 'node:fs';
 let html=fs.readFileSync(new URL('dist/index.html',import.meta.url),'utf8');
-const css=fs.readFileSync(new URL('dist/style.css',import.meta.url),'utf8');
+let css=fs.readFileSync(new URL('dist/style.css',import.meta.url),'utf8');
+for(const [,font] of css.matchAll(/url\('(assets\/fonts\/[^']+)'\)/g)){
+ const embedded='data:font/ttf;base64,'+fs.readFileSync(new URL('dist/'+font,import.meta.url)).toString('base64');
+ css=css.replaceAll("'"+font+"'","'"+embedded+"'");
+}
 const js=fs.readFileSync(new URL('dist/app.js',import.meta.url),'utf8');
 html=html.replace('<link rel="stylesheet" href="style.css">',`<style>${css}</style>`).replace('<script src="app.js" defer></script>',`<script>document.addEventListener('DOMContentLoaded',()=>{\n${js}\n});</script>`);
 const assets=[...new Set([...html.matchAll(/(?:src|href|data-screenshot)="(assets\/[^\"]+)"/g)].map(m=>m[1]))];

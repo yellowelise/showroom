@@ -29,3 +29,8 @@ Raccolta riferita al periodo **20 maggio–3 ottobre 2026**, basata sui reposito
 Gli screenshot sono stati acquisiti il 3 ottobre 2026 da pagine pubbliche, comprese alcune schermate di accesso. I siti promozionali delle app Android non sono screenshot dell’app installata. Nessun dato di aree riservate è incluso.
 
 La pubblicazione di questa vetrina non modifica la visibilità dei repository delle applicazioni presentate.
+
+## Identità visiva
+
+Allestimento editoriale scuro con accento arancio, titoli Anton e testo DM Sans, progetti numerati e screenshot a tutta larghezza. Font ospitati localmente con licenze OFL in dist/assets/fonts. Le animazioni rispettano prefers-reduced-motion.
+
