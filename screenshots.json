@@ -30,16 +30,6 @@
     "image": "assets/screenshots/al.jpg"
   },
   {
-    "folder": "fisio",
-    "name": "Fisioterapia & movimento",
-    "requestedUrl": "https://fisioterapia.pubblica.app",
-    "capturedAt": "2026-10-03T17:32:29.136Z",
-    "status": 200,
-    "url": "https://fisioterapia.pubblica.app/",
-    "title": "Fisioterapista a Fonte Nuova | Cristian Sarmiento",
-    "image": "assets/screenshots/fm.jpg"
-  },
-  {
     "folder": "Dieta",
     "name": "LINFA",
     "requestedUrl": "https://linfa-dieta.vercel.app",
@@ -302,5 +292,17 @@
     "title": "openBWR",
     "url": "https://openbwr.pubblica.app/",
     "image": "assets/screenshots/ob.jpg"
+  },
+  {
+    "folder": "fisio",
+    "name": "Fisioterapia & movimento",
+    "capturedAt": "2026-10-18T08:40:57.507Z",
+    "caption": "Pagina pubblica",
+    "source": "public",
+    "requestedUrl": "https://fisioterapia.pubblica.app",
+    "status": 200,
+    "title": "Studio Fisio | Fisioterapia e movimento",
+    "url": "https://fisioterapia.pubblica.app/",
+    "image": "assets/screenshots/fm.jpg"
   }
 ]
