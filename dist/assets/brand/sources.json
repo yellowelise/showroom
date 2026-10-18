@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-18",
+  "website": "https://www.mediaera.it/",
+  "assets": {
+    "mediaera-logo.png": "https://www.mediaera.it/wp-content/uploads/2017/07/logo-mediaera3.png",
+    "mediaera-icon.jpg": "https://www.mediaera.it/wp-content/uploads/2017/07/cropped-logo-mediaera-new-192x192.jpg"
+  },
+  "reference": {
+    "accent": "#d3a907",
+    "headerBackground": "#1c1c1c",
+    "headingFont": "Roboto Slab",
+    "bodyFont": "Roboto"
+  }
+}

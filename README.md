@@ -32,5 +32,7 @@ La pubblicazione di questa vetrina non modifica la visibilità dei repository de
 
 ## Identità visiva
 
-Allestimento editoriale scuro con accento arancio, titoli Anton e testo DM Sans, progetti numerati e screenshot a tutta larghezza. Font ospitati localmente con licenze OFL in dist/assets/fonts. Le animazioni rispettano prefers-reduced-motion.
+Tema coordinato con [mediaera.it](https://www.mediaera.it/): logo ufficiale su fondo antracite `#1c1c1c`, superfici bianche, accento oro `#d3a907`, titoli Roboto Slab e testo Roboto. Il colore `#806600` mantiene leggibili i testi color oro su fondo chiaro. Screenshot a colori, progetti numerati e layout responsive. Le animazioni rispettano `prefers-reduced-motion`.
+
+Logo e icona originali sono conservati in `dist/assets/brand/`; provenienza in `dist/assets/brand/sources.json`. Font ospitati localmente con le rispettive licenze OFL (Roboto) e Apache 2.0 (Roboto Slab) in `dist/assets/fonts/`. Anche la copia autonoma incorpora loghi, icona e font: non richiede il sito Mediaera o Google Fonts per visualizzarli.
 
