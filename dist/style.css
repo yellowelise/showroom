@@ -97,6 +97,7 @@ select{border:1px solid #999;background:var(--bg);color:var(--ink);padding:12px;
 .exhibit-copy{padding-top:24px;flex:1;display:flex;flex-direction:column}
 h3{font:400 clamp(28px,2.7vw,38px)/1.2 var(--display);letter-spacing:-.8px;margin:0 0 12px;overflow-wrap:anywhere}
 .tagline{font-size:16px;color:var(--accent-ink);margin:0 0 14px;line-height:1.5}
+.project-context{align-self:flex-start;margin:0 0 14px;padding:5px 10px;background:var(--panel);border-left:2px solid var(--accent);color:var(--muted);font-size:12px}
 .description{font-size:15px;line-height:1.85;color:var(--muted);margin:0;max-width:65ch}
 .project ul{display:grid;gap:8px;list-style:none;padding:22px 0;margin:0 0 auto;font-size:14px;color:#4b4b4b}
 .project li{display:flex;gap:10px}

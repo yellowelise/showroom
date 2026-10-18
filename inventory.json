@@ -250,5 +250,74 @@
     "homepage": null,
     "createdAt": "2026-09-22T20:00:24Z",
     "readme": true
+  },
+  {
+    "folder": "studia",
+    "repo": "https://github.com/yellowelise/studia",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-12"
+  },
+  {
+    "folder": "IAnt",
+    "repo": "https://github.com/yellowelise/IAnt",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-05"
+  },
+  {
+    "folder": "robosoccer",
+    "repo": "https://github.com/yellowelise/robosoccer",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-17"
+  },
+  {
+    "folder": "lemmings",
+    "repo": null,
+    "verifiedAt": "2026-10-18",
+    "dateLabel": "Progetto verificato"
+  },
+  {
+    "folder": "openbwr",
+    "repo": null,
+    "verifiedAt": "2026-10-18",
+    "dateLabel": "Progetto verificato"
+  },
+  {
+    "folder": "algoritmi",
+    "repo": "https://github.com/yellowelise/reCoding",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-12",
+    "partOf": "reCoding",
+    "dateLabel": "Repository reCoding aggiornato"
+  },
+  {
+    "folder": "assembly",
+    "repo": "https://github.com/yellowelise/reCoding",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-12",
+    "partOf": "reCoding",
+    "dateLabel": "Repository reCoding aggiornato"
+  },
+  {
+    "folder": "electronic_workbench",
+    "repo": "https://github.com/yellowelise/reCoding",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-12",
+    "partOf": "reCoding",
+    "dateLabel": "Repository reCoding aggiornato"
+  },
+  {
+    "folder": "sorting",
+    "repo": "https://github.com/yellowelise/reCoding",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-12",
+    "partOf": "reCoding",
+    "dateLabel": "Repository reCoding aggiornato"
   }
 ]

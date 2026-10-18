@@ -198,5 +198,109 @@
     "url": "https://leveldocs.pubblica.app/",
     "title": "Level DOCS · Il tuo spazio documenti",
     "image": "assets/screenshots/ld.jpg"
+  },
+  {
+    "folder": "studia",
+    "name": "Studia",
+    "capturedAt": "2026-10-18T08:11:44.983Z",
+    "caption": "Schermata di accesso",
+    "source": "public",
+    "requestedUrl": "https://studia.pubblica.app",
+    "status": 200,
+    "title": "Studia — entra nella tua zona",
+    "url": "https://studia.pubblica.app/",
+    "image": "assets/screenshots/st.jpg"
+  },
+  {
+    "folder": "IAnt",
+    "name": "IAnt",
+    "capturedAt": "2026-10-18T08:11:48.845Z",
+    "caption": "Schermata di accesso",
+    "source": "public",
+    "requestedUrl": "https://iant.pubblica.app",
+    "status": 200,
+    "title": "IAnt — Un piccolo mondo vivente",
+    "url": "https://iant.pubblica.app/",
+    "image": "assets/screenshots/ant.jpg"
+  },
+  {
+    "folder": "lemmings",
+    "name": "DROVE",
+    "capturedAt": "2026-10-18T08:11:51.575Z",
+    "caption": "Pagina pubblica",
+    "source": "public",
+    "requestedUrl": "https://drove.pubblica.app",
+    "status": 200,
+    "title": "DROVE — oggetti, funzioni e piccoli esseri",
+    "url": "https://drove.pubblica.app/",
+    "image": "assets/screenshots/dr.jpg"
+  },
+  {
+    "folder": "robosoccer",
+    "name": "RoboSoccer",
+    "capturedAt": "2026-10-18T08:11:54.942Z",
+    "caption": "Pagina pubblica",
+    "source": "public",
+    "requestedUrl": "https://soccer.pubblica.app",
+    "status": 200,
+    "title": "RoboSoccer — code your champion.",
+    "url": "https://soccer.pubblica.app/?view=garage",
+    "image": "assets/screenshots/rs.jpg"
+  },
+  {
+    "folder": "openbwr",
+    "name": "OpenBWR",
+    "capturedAt": "2026-10-18T08:11:58.318Z",
+    "caption": "Applicazione pubblica",
+    "source": "public",
+    "requestedUrl": "https://openbwr.pubblica.app",
+    "status": 200,
+    "title": "openBWR",
+    "url": "https://openbwr.pubblica.app/?seed=MIDNIGHT-4417",
+    "error": "City still loading; do not publish an incomplete screenshot"
+  },
+  {
+    "folder": "assembly",
+    "name": "ASM 8086 IDE",
+    "capturedAt": "2026-10-18T08:12:16.691Z",
+    "caption": "Anteprima locale del modulo reCoding",
+    "source": "local",
+    "requestedUrl": null,
+    "status": 200,
+    "title": "ASM 8086 IDE",
+    "image": "assets/screenshots/asm.jpg"
+  },
+  {
+    "folder": "sorting",
+    "name": "SortLab",
+    "capturedAt": "2026-10-18T08:12:21.469Z",
+    "caption": "Anteprima locale del modulo reCoding",
+    "source": "local",
+    "requestedUrl": null,
+    "status": 200,
+    "title": "SortLab — Sorting Algorithm Visualizer",
+    "image": "assets/screenshots/sl.jpg"
+  },
+  {
+    "folder": "algoritmi",
+    "name": "Algoritmi",
+    "capturedAt": "2026-10-18T08:14:35.411Z",
+    "caption": "Anteprima locale del modulo reCoding",
+    "source": "local",
+    "requestedUrl": null,
+    "status": 200,
+    "title": "Algoritmi — Archivio Didattico",
+    "image": "assets/screenshots/ag.jpg"
+  },
+  {
+    "folder": "electronic_workbench",
+    "name": "Electronic Workbench",
+    "capturedAt": "2026-10-18T08:14:38.421Z",
+    "caption": "Anteprima locale del modulo reCoding",
+    "source": "local",
+    "requestedUrl": null,
+    "status": 200,
+    "title": "Electronic Workbench",
+    "image": "assets/screenshots/ew.jpg"
   }
 ]
