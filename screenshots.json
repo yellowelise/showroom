@@ -248,18 +248,6 @@
     "image": "assets/screenshots/rs.jpg"
   },
   {
-    "folder": "openbwr",
-    "name": "OpenBWR",
-    "capturedAt": "2026-10-18T08:11:58.318Z",
-    "caption": "Applicazione pubblica",
-    "source": "public",
-    "requestedUrl": "https://openbwr.pubblica.app",
-    "status": 200,
-    "title": "openBWR",
-    "url": "https://openbwr.pubblica.app/?seed=MIDNIGHT-4417",
-    "error": "City still loading; do not publish an incomplete screenshot"
-  },
-  {
     "folder": "assembly",
     "name": "ASM 8086 IDE",
     "capturedAt": "2026-10-18T08:12:16.691Z",
@@ -302,5 +290,17 @@
     "status": 200,
     "title": "Electronic Workbench",
     "image": "assets/screenshots/ew.jpg"
+  },
+  {
+    "folder": "openbwr",
+    "name": "OpenBWR",
+    "capturedAt": "2026-10-18T08:30:27.586Z",
+    "caption": "Applicazione pubblica",
+    "source": "public",
+    "requestedUrl": "https://openbwr.pubblica.app",
+    "status": 200,
+    "title": "openBWR",
+    "url": "https://openbwr.pubblica.app/",
+    "image": "assets/screenshots/ob.jpg"
   }
 ]
