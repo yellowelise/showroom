@@ -304,5 +304,17 @@
     "title": "Studio Fisio | Fisioterapia e movimento",
     "url": "https://fisioterapia.pubblica.app/",
     "image": "assets/screenshots/fm.jpg"
+  },
+  {
+    "folder": "daily",
+    "name": "dAIly",
+    "capturedAt": "2026-10-23T21:08:46.477Z",
+    "caption": "Schermata di accesso",
+    "source": "public",
+    "requestedUrl": "https://daily.pubblica.app",
+    "finalUrl": "https://daily.pubblica.app/",
+    "status": 200,
+    "title": "dAIly — Le tue idee, in azione.",
+    "image": "assets/screenshots/da.jpg"
   }
 ]

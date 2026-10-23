@@ -4,7 +4,7 @@ Vetrina delle applicazioni promosse da **Mediaera Srl**, sviluppate da Andrea Ba
 
 **Sito:** https://showroom.pubblica.app
 
-30 progetti, descrizioni estese, caratteristiche, link e 29 screenshot ingrandibili. Ricerca testuale, filtri per settore e ordinamento per nome o aggiornamento; layout responsive e catalogo leggibile anche senza JavaScript.
+31 progetti, descrizioni estese, caratteristiche, link e 30 screenshot ingrandibili. Ricerca testuale, filtri per settore e ordinamento per nome o aggiornamento; layout responsive e catalogo leggibile anche senza JavaScript.
 
 ## Sviluppo
 
@@ -24,11 +24,13 @@ Il Dockerfile serve esclusivamente `dist/` con Nginx sulla porta interna 80. End
 
 ## Fonti
 
-Raccolta aggiornata al **18 ottobre 2026**, basata sui repository GitHub, sulla documentazione e sulle pagine dei prodotti. Le date indicano i commit rilevati oppure la verifica del progetto, non necessariamente il lancio. I collegamenti ai repository delle singole app possono richiedere autorizzazione. I progetti senza repository documentato non mostrano collegamenti GitHub.
+Raccolta aggiornata al **23 ottobre 2026**, basata sui repository GitHub, sulla documentazione e sulle pagine dei prodotti. Le date indicano i commit rilevati oppure la verifica del progetto, non necessariamente il lancio. I collegamenti ai repository delle singole app possono richiedere autorizzazione. I progetti senza repository documentato non mostrano collegamenti GitHub.
 
-Gli screenshot sono stati acquisiti il 3 e il 18 ottobre 2026 da pagine pubbliche, comprese alcune schermate di accesso, e dalle anteprime locali dei quattro moduli reCoding, esplicitamente indicate nelle didascalie. L’anteprima di OpenBWR mostra la città nell’applicazione online. I siti promozionali delle app Android non sono screenshot dell’app installata. Nessun dato di aree riservate è incluso. Solo reCoding OS ha una scheda senza screenshot.
+Gli screenshot sono stati acquisiti il 3, il 18 e il 23 ottobre 2026 da pagine pubbliche, comprese alcune schermate di accesso, e dalle anteprime locali dei quattro moduli reCoding, esplicitamente indicate nelle didascalie. L’anteprima di OpenBWR mostra la città nell’applicazione online. I siti promozionali delle app Android non sono screenshot dell’app installata. Nessun dato di aree riservate è incluso. Solo reCoding OS ha una scheda senza screenshot.
 
 Le aggiunte del 18 ottobre sono Studia, IAnt, DROVE, RoboSoccer, OpenBWR, Algoritmi, ASM 8086 IDE, Electronic Workbench e SortLab. Gli ultimi quattro hanno schede dedicate e collegamenti alle rispettive route di reCoding, che richiedono accesso alla piattaforma. BrosAI resta esclusa, come Yalper LiveReplay, Yalper Pro, Gixel e aiSisto.
+
+Il 23 ottobre è stato aggiunto dAIly, con descrizione verificata nel repository, collegamento a https://daily.pubblica.app e screenshot della schermata pubblica di accesso.
 
 La pubblicazione di questa vetrina non modifica la visibilità dei repository delle applicazioni presentate.
 

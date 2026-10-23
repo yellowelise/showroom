@@ -319,5 +319,12 @@
     "last": "2026-10-12",
     "partOf": "reCoding",
     "dateLabel": "Repository reCoding aggiornato"
+  },
+  {
+    "folder": "daily",
+    "repo": "https://github.com/yellowelise/daily",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-23"
   }
 ]
