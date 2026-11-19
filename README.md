@@ -34,6 +34,8 @@ Il 23 ottobre è stato aggiunto dAIly, con descrizione verificata nel repository
 
 Il 19 novembre sono entrati RoboArm, RoboArm for Kids, Flowcharts, Evento, reComputer.it, BlynkEyes, Doc Anon e ruleThemAll. Sette immagini provengono dai siti pubblici. Doc Anon mostra la schermata di revisione del documento di prova pubblicata con la versione 0.2.1.
 
+Le schede aggiornate di Electronic Workbench e StartUP@School mostrano il filtro RC simulato sul banco 3D e la lavagna di Orto Circolare nel manuale studenti del 17 novembre (dati dimostrativi).
+
 La pubblicazione di questa vetrina non modifica la visibilità dei repository delle applicazioni presentate.
 
 ## Identità visiva

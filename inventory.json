@@ -230,8 +230,8 @@
   {
     "folder": "StartUPatSchool",
     "first": "2026-09-10",
-    "last": "2026-09-11",
-    "commits": 70,
+    "last": "2026-11-17",
+    "commits": 78,
     "repo": "https://github.com/yellowelise/StartUPatSchool",
     "private": true,
     "verifiedRemote": true,
@@ -307,7 +307,7 @@
     "repo": "https://github.com/yellowelise/reCoding",
     "private": true,
     "verifiedRemote": true,
-    "last": "2026-10-12",
+    "last": "2026-11-19",
     "partOf": "reCoding",
     "dateLabel": "Repository reCoding aggiornato"
   },

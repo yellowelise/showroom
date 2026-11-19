@@ -142,12 +142,12 @@
   {
     "folder": "StartUPatSchool",
     "name": "StartUP@School",
-    "requestedUrl": "https://startup-school.pubblica.app",
-    "capturedAt": "2026-10-03T17:32:56.582Z",
-    "status": 200,
-    "url": "https://startup-school.pubblica.app/",
-    "title": "StartUP@School",
-    "image": "assets/screenshots/sat.jpg"
+    "requestedUrl": null,
+    "capturedAt": "2026-11-17",
+    "title": "StartUP@School · Manuale studente",
+    "image": "assets/screenshots/sat.jpg",
+    "source": "manual",
+    "caption": "La lavagna di Orto Circolare e il piano di lancio, dal manuale studenti con dati dimostrativi"
   },
   {
     "folder": "VidMeUp",
@@ -273,11 +273,10 @@
   {
     "folder": "electronic_workbench",
     "name": "Electronic Workbench",
-    "capturedAt": "2026-10-18T08:14:38.421Z",
-    "caption": "Anteprima locale del modulo reCoding",
+    "capturedAt": "2026-11-19T19:40:37.598937+00:00",
+    "caption": "Anteprima locale del filtro RC sul banco 3D, con le tracce di ingresso e uscita sull’oscilloscopio",
     "source": "local",
     "requestedUrl": null,
-    "status": 200,
     "title": "Electronic Workbench",
     "image": "assets/screenshots/ew.jpg"
   },
