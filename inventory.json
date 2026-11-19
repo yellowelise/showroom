@@ -326,5 +326,60 @@
     "private": true,
     "verifiedRemote": true,
     "last": "2026-10-23"
+  },
+  {
+    "folder": "RoboArm",
+    "repo": "https://github.com/yellowelise/RoboArm",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-11-15"
+  },
+  {
+    "folder": "roboarmFK",
+    "repo": "https://github.com/yellowelise/roboarmFK",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-11-16"
+  },
+  {
+    "folder": "flowcharts",
+    "repo": "https://github.com/yellowelise/flowcharts",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-30"
+  },
+  {
+    "folder": "evento",
+    "repo": "https://github.com/yellowelise/evento",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-11-04"
+  },
+  {
+    "folder": "claid",
+    "repo": "https://github.com/yellowelise/claid",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-29"
+  },
+  {
+    "folder": "BlynkEyes",
+    "repo": null,
+    "verifiedAt": "2026-11-19",
+    "dateLabel": "Progetto verificato"
+  },
+  {
+    "folder": "doc_anon",
+    "repo": "https://github.com/yellowelise/doc_anon",
+    "private": false,
+    "verifiedRemote": true,
+    "last": "2026-11-04"
+  },
+  {
+    "folder": "ruleThemAll",
+    "repo": "https://github.com/yellowelise/ruleThemAll",
+    "private": true,
+    "verifiedRemote": true,
+    "last": "2026-10-28"
   }
 ]

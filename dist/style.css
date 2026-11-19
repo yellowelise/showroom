@@ -32,6 +32,7 @@ nav a{display:inline-flex;align-items:center;gap:5px;min-height:44px}
 nav sup{color:var(--accent);font-size:10px}
 nav a:hover{color:var(--accent)}
 .hero{padding-top:34px}
+.hero-kicker a{text-decoration:underline;text-underline-offset:3px}.hero-kicker a:hover{color:var(--ink)}
 .hero-kicker{display:flex;justify-content:space-between;gap:24px;color:var(--muted);font-size:11px;letter-spacing:1.6px}
 h1{font:400 clamp(64px,8.2vw,118px)/1.15 var(--display);letter-spacing:-.055em;margin:35px 0 22px}
 h1>span{color:var(--accent-ink)}

@@ -316,5 +316,77 @@
     "status": 200,
     "title": "dAIly — Le tue idee, in azione.",
     "image": "assets/screenshots/da.jpg"
+  },
+  {
+    "folder": "RoboArm",
+    "name": "RoboArm",
+    "image": "assets/screenshots/roboarm.jpg",
+    "caption": "Milo Flex nel simulatore, con editor e telemetria",
+    "source": "public",
+    "requestedUrl": "https://roboarm.pubblica.app",
+    "capturedAt": "2026-11-19"
+  },
+  {
+    "folder": "roboarmFK",
+    "name": "RoboArm for Kids",
+    "image": "assets/screenshots/roboarm-kids.jpg",
+    "caption": "Una missione di Milo e il diagramma dei suoi movimenti",
+    "source": "public",
+    "requestedUrl": "https://roboarm-medie.pubblica.app",
+    "capturedAt": "2026-11-19"
+  },
+  {
+    "folder": "flowcharts",
+    "name": "Flowcharts",
+    "image": "assets/screenshots/flowcharts.jpg",
+    "caption": "Il diagramma «Pari o dispari» nell’editor",
+    "source": "public",
+    "requestedUrl": "https://flowcharts.pubblica.app",
+    "capturedAt": "2026-11-19"
+  },
+  {
+    "folder": "evento",
+    "name": "Evento",
+    "image": "assets/screenshots/evento.jpg",
+    "caption": "La pagina pubblica di Evento con l’invito per un’escursione",
+    "source": "public",
+    "requestedUrl": "https://evento.pubblica.app",
+    "capturedAt": "2026-11-19"
+  },
+  {
+    "folder": "claid",
+    "name": "reComputer.it",
+    "image": "assets/screenshots/recomputer.jpg",
+    "caption": "L’ingresso pubblico al workspace reComputer.it",
+    "source": "public",
+    "requestedUrl": "https://recomputer.it",
+    "capturedAt": "2026-11-19"
+  },
+  {
+    "folder": "BlynkEyes",
+    "name": "BlynkEyes",
+    "image": "assets/screenshots/blynkeyes.jpg",
+    "caption": "La prima missione della campagna nella Laguna di vetro",
+    "source": "public",
+    "requestedUrl": "https://blinkeyes.pubblica.app",
+    "capturedAt": "2026-11-19"
+  },
+  {
+    "folder": "doc_anon",
+    "name": "Doc Anon",
+    "image": "assets/screenshots/doc-anon.jpg",
+    "caption": "Revisione degli oscuramenti su un documento di prova",
+    "source": "repository",
+    "requestedUrl": "https://github.com/yellowelise/doc_anon/blob/v0.2.1/verification/review-0.2.1.png",
+    "capturedAt": "2026-11-04"
+  },
+  {
+    "folder": "ruleThemAll",
+    "name": "ruleThemAll",
+    "image": "assets/screenshots/rulethemall.jpg",
+    "caption": "La dimostrazione illustrata del passaggio tra due computer",
+    "source": "public",
+    "requestedUrl": "https://rta.pubblica.app",
+    "capturedAt": "2026-11-19"
   }
 ]
